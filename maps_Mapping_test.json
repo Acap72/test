@@ -3,380 +3,274 @@
      {
        "RoomName": "A302",
        "DisplayName": "Room A302",
-       "ImageName": "A302",
-       "Building": "A",
-       "Level": "3"
+       "ImageName": "FloorA3",
      },
      {
        "RoomName": "A305",
        "DisplayName": "Room A305",
-       "ImageName": "A305",
-       "Building": "A",
-       "Level": "3"
+       "ImageName": "FloorA3",
      },
      {
-       "RoomName": "A311/A312",
+       "RoomName": "A311A312",
        "DisplayName": "Rooms A311/A312",
-       "ImageName": "A311A312",
-       "Building": "A",
-       "Level": "3"
+       "ImageName": "FloorA3",
      },
       {
-       "RoomName": "A313/A314",
+       "RoomName": "A313A314",
        "DisplayName": "Rooms A313/A314",
-       "ImageName": "A313A314",
-       "Building": "A",
-       "Level": "3"
+       "ImageName": "FloorA3",
      },
       {
-       "RoomName": "A315/A316",
+       "RoomName": "A315A316",
        "DisplayName": "Rooms A315/A316",
-       "ImageName": "A315A316",
+       "ImageName": "FloorA3",
        "Building": "A",
        "Level": "3"
      },
        {
-       "RoomName": "A402/A403",
+       "RoomName": "A402A403",
        "DisplayName": "Rooms A402/A403",
-       "ImageName": "A402A403",
-       "Building": "A",
-       "Level": "4"
+       "ImageName": "FloorA4"
      },
       {
-       "RoomName": "A404/A405",
+       "RoomName": "A404A405",
        "DisplayName": "Rooms A404/A405",
-       "ImageName": "A402A403",
-       "Building": "A",
-       "Level": "4"
+       "ImageName": "FloorA4",
      },
       {
       "RoomName": "B203",
       "DisplayName": "Room B203",
-       "ImageName": "B203",
-       "Building": "B",
-       "Level": "2"
+       "ImageName": "FloorB2"
      },
       {
       "RoomName": "B206",
       "DisplayName": "Room B206",
-       "ImageName": "B206",
-       "Building": "B",
-       "Level": "2"
+       "ImageName": "FloorB2"
      },
       {
-      "RoomName": "B207/B208",
+      "RoomName": "B207B208",
       "DisplayName": "Rooms B207/B208",
-       "ImageName": "B203",
-       "Building": "B",
-       "Level": "2"
+       "ImageName": "FloorB2"
      },
       {
-      "RoomName": "B211/B212",
+      "RoomName": "B211B212",
       "DisplayName": "Rooms B211/B212",
-       "ImageName": "B211B212",
-       "Building": "B",
-       "Level": "2"
+       "ImageName": "FloorB2"
      },
      {
-      "RoomName": "B213/B214",
+      "RoomName": "B213B214",
       "DisplayName": "Rooms B213/B214",
-       "ImageName": "B213B214",
-       "Building": "B",
-       "Level": "2"
+       "ImageName": "FloorB2"
      },
      {
-      "RoomName": "B216/B217",
+      "RoomName": "B216B217",
       "DisplayName": "Rooms B216/B217",
-       "ImageName": "B216B217",
-       "Building": "B",
-       "Level": "2"
+       "ImageName": "FloorB2"
      },
      {
       "RoomName": "B302-B303",
       "DisplayName": "Rooms B302-B303",
-       "ImageName": "B302-B303",
-       "Building": "B",
-       "Level": "3"
+       "ImageName": "FloorB3"
      },
      {
-      "RoomName": "B308/B309",
+      "RoomName": "B308B309",
       "DisplayName": "Rooms B308/B309",
-       "ImageName": "B308B309",
-       "Building": "B",
-       "Level": "3"
+       "ImageName": "FloorB3"
      },
      {
       "RoomName": "B312-B314",
       "DisplayName": "Rooms B312-B314",
-       "ImageName": "B312-B314",
-       "Building": "B",
-       "Level": "3"
+       "ImageName": "FloorB3"
      },
      {
       "RoomName": "B304-B305",
       "DisplayName": "Rooms 304-B305",
-       "ImageName": "B304-B305",
-       "Building": "B",
-       "Level": "3"
+       "ImageName": "BFloorB3"
      },
      {
       "RoomName": "B401/B402",
       "DisplayName": "Rooms B401/B402",
-       "ImageName": "B401B402",
-       "Building": "B",
-       "Level": "4"
+       "ImageName": "FloorB4"
      },
      {
       "RoomName": "B405-B407",
       "DisplayName": "Rooms B405-B407",
-       "ImageName": "B405-B407",
-       "Building": "B",
-       "Level": "4"
+       "ImageName": "FloorB4"
      },
       {
       "RoomName": "Thomas Murphy Ballroom 1",
       "DisplayName": "Thomas Murphy Ballroom 1",
-       "ImageName": "ThomasMurphyBallroom1",
-       "Building": "B",
-       "Level": "5"
+       "ImageName": "FloorB5",
      },
       {
       "RoomName": "Thomas Murphy Ballroom 2&3",
       "DisplayName": "Thomas Murphy Ballrooms 2&3",
-       "ImageName": "ThomasMurphyBallroom2-3",
-       "Building": "B",
-       "Level": "5"
+       "ImageName": "FloorB5"
      },
       {
       "RoomName": "Thomas Murphy Ballroom 4",
       "DisplayName": "Thomas Murphy Ballroom 4",
-       "ImageName": "ThomasMurphyBallroom1",
-       "Building": "B",
-       "Level": "5"
+       "ImageName": "FloorB5"
      },
       {
       "RoomName": "C101",
        "DisplayName": "Room C101",
-       "ImageName": "C101",
-       "Building": "C",
-       "Level": "1"
+       "ImageName": "FloorC1"
      },
      {
       "RoomName": "C108-C109",
       "DisplayName": "Rooms C108-C109",
-       "ImageName": "C108-C109",
-       "Building": "C",
-       "Level": "1"
+       "ImageName": "FloorC1"
      },
      {
       "RoomName": "C111",
       "DisplayName": "Room C111",
-       "ImageName": "C111",
-       "Building": "C",
-       "Level": "1"
+       "ImageName": "FloorC1"
      },
      {
       "RoomName": "C112",
       "DisplayName": "Room C112",
-       "ImageName": "C112",
-       "Building": "C",
-       "Level": "1"
+       "ImageName": "FloorC1"
      },
      {
       "RoomName": "C113",
       "DisplayName": "Room C113",
-       "ImageName": "C113",
-       "Building": "C",
-       "Level": "1"
+       "ImageName": "FloorC1"
      },
      {
       "RoomName": "C114",
       "DisplayName": "Room C114",
-       "ImageName": "C114",
-       "Building": "C",
-       "Level": "1"
+       "ImageName": "FloorC1"
      },
      {
       "RoomName": "C101",
       "DisplayName": "Room C101",
-       "ImageName": "C101",
-       "Building": "C",
-       "Level": "1"
+       "ImageName": "FloorC1"
      },
      {
       "RoomName": "C202-C204",
       "DisplayName": "Rooms C202-C204",
-       "ImageName": "C202-C204",
-       "Building": "C",
-       "Level": "2"
+       "ImageName": "FloorC2"
      },
      {
       "RoomName": "C302",
       "DisplayName": "Room C302",
-       "ImageName": "C302",
-       "Building": "C",
-       "Level": "3"
+       "ImageName": "FloorC3"
      },
      {
       "RoomName": "A1",
       "DisplayName": "Room A1",
-       "ImageName": "A1",
-       "Building": "A",
-       "Level": "1"
+       "ImageName": "FloorA1"
      },
      {
       "RoomName": "A411/A412",
       "DisplayName": "Rooms A411/A412",
-       "ImageName": "A411A412",
-       "Building": "A",
-       "Level": "4"
+       "ImageName": "FloorA4"
      },
      {
       "RoomName": "Sydeny Marcus Auditorium",
       "DisplayName": "Sydeny Marcus Auditorium",
-       "ImageName": "SydenyMarcusAuditorium",
-       "Building": "A",
-       "Level": "4"
+       "ImageName": "FloorA4"
      },
      {
       "RoomName": "Thomas Murphy Ballroom",
       "DisplayName": "Thomas Murphy Ballroom",
-       "ImageName": "ThomasMurphyBallroom",
-       "Building": "B",
-       "Level": "5"
+       "ImageName": "FloorB5"
      },
      {
       "RoomName": "C1",
       "DisplayName": "Room C1",
-       "ImageName": "C1",
-       "Building": "C",
-       "Level": "1"
+       "ImageName": "FloorC1",
      },
      {
       "RoomName": "Georgia Ballroom",
       "DisplayName": "Georgia Ballroom",
-       "ImageName": "GeorgiaBallroom",
-       "Building": "C",
-       "Level": "3"
+       "ImageName": "FloorC3"
      },
       {
-      "RoomName": "Phillips Arena",
+      "RoomName": "PhillipsArena",
       "DisplayName": "Phillips Arena",
        "ImageName": "PhillipsArena",
-       "Building": "Phillips Arena",
-       "Level": ""
      },
       {
       "RoomName": "Grand Ballroom",
       "DisplayName": "Grand Ballroom",
-       "ImageName": "GrandBallroom",
-       "Building": "Omni - CNN North Tower",
-       "Level": "M4"
+       "ImageName": "Omni-CNNNorthTowerM4"
      },
       {
       "RoomName": "Willow Boardroom",
       "DisplayName": "Willow Boardroom",
-      "ImageName": "WillowBoardroom",
-      "Building": "Omni - CNN North Tower",
-      "Level": "M4"
+      "ImageName": "Omni-CNNNorthTowerM4"
      },
       {
       "RoomName": "Dogwood",
       "DisplayName": "Dogwood",
-      "ImageName": "Dogwood",
-      "Building": "Omni - CNN North Tower",
-      "Level": "M1 Street Level"
+      "ImageName": "Omni-CNNNorthTowerM4",
      },
       {
       "RoomName": "Cottonwood",
       "DisplayName": "Cottonwood",
-      "ImageName": "Cottonwood",
-       "Building": "Omni - CNN North Tower",
-       "Level": "M1 Street Level"
+      "ImageName": "Omni-CNNNorthTowerM1StreetLevel"
      },
       {
       "RoomName": "Redwood",
       "DisplayName": "Redwood",
-      "ImageName": "Redwood",
-       "Building": "Omni - CNN North Tower",
-       "Level": "M1 Street Level"
+      "ImageName": "Omni-CNNNorthTowerM1StreetLevel"
      },
       {
       "RoomName": "FloorC3",
       "DisplayName": "Building C Floor 3",
-      "ImageName": "FloorC3",
-       "Building": "C",
-       "Level": ""
+      "ImageName": "FloorC3"
      },
      {
       "RoomName": "FloorC2",
       "DisplayName": "Building C Floor 2",
-      "ImageName": "FloorC2",
-       "Building": "C",
-       "Level": ""
+      "ImageName": "FloorC2"
      },
      {
       "RoomName": "FloorC1",
       "DisplayName": "Building C Floor 1",
-      "ImageName": "FloorC1",
-       "Building": "C",
-       "Level": ""
+      "ImageName": "FloorC1"
      },
      {
       "RoomName": "FloorB5",
       "DisplayName": "Building B Floor 5",
-      "ImageName": "FloorB5",
-       "Building": "B",
-       "Level": ""
+      "ImageName": "FloorB5"
      },
      {
       "RoomName": "FloorB4",
       "DisplayName": "Building B Floor 4",
-      "ImageName": "FloorB4",
-       "Building": "B",
-       "Level": ""
+      "ImageName": "FloorB4"
      },
      {
       "RoomName": "FloorB3",
       "DisplayName": "Building B Floor 3",
-      "ImageName": "FloorB3",
-       "Building": "B",
-       "Level": ""
+      "ImageName": "FloorB3"
      },
      {
       "RoomName": "FloorB2",
       "DisplayName": "Building B Floor 2",
-      "ImageName": "FloorB2",
-       "Building": "B",
-       "Level": ""
+      "ImageName": "FloorB2"
      },
      {
       "RoomName": "FloorB1",
       "DisplayName": "Building B Floor 1",
-      "ImageName": "FloorB1",
-       "Building": "B",
-       "Level": ""
+      "ImageName": "FloorB1"
      },
      {
       "RoomName": "FloorA3",
       "DisplayName": "Building A Floor 3",
-      "ImageName": "FloorA3",
-       "Building": "A",
-       "Level": ""
+      "ImageName": "FloorA3"
      },
      {
       "RoomName": "FloorA2",
       "DisplayName": "Building A Floor 2",
-      "ImageName": "FloorA2",
-       "Building": "A",
-       "Level": ""
+      "ImageName": "FloorA2"
      },
      {
       "RoomName": "FloorA1",
       "DisplayName": "Building A Floor 1",
-      "ImageName": "FloorA1",
-       "Building": "A",
-       "Level": ""
+      "ImageName": "FloorA1"
      },
    ]
  }
