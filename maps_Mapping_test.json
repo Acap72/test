@@ -85,7 +85,7 @@
        "ImageName": "FloorB3"
      },
      {
-        "RoomName": "308/B309",
+        "RoomName": "B308/B309",
       "CSSClassName": "B308B309",
       "DisplayName": "Rooms B308/B309",
        "ImageName": "FloorB3"
@@ -97,13 +97,13 @@
        "ImageName": "FloorB3"
      },
      {
-        "RoomName": "304-B305",
+        "RoomName": "B304-B305",
       "CSSClassName": "B304-B305",
       "DisplayName": "Rooms 304-B305",
        "ImageName": "BFloorB3"
      },
      {
-        "RoomName": "401/B402",
+        "RoomName": "B401/B402",
       "CSSClassName": "B401/B402",
       "DisplayName": "Rooms B401/B402",
        "ImageName": "FloorB4"
@@ -127,7 +127,7 @@
        "ImageName": "FloorB5"
      },
       {
-         "RoomName": "homas Murphy Ballroom 4",
+         "RoomName": "Thomas Murphy Ballroom 4",
       "CSSClassName": "Thomas Murphy Ballroom 4",
       "DisplayName": "Thomas Murphy Ballroom 4",
        "ImageName": "FloorB5"
