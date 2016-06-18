@@ -100,7 +100,7 @@
         "RoomName": "B304-B305",
       "RoomImageName": "B304-B305",
       "DisplayName": "Rooms 304-B305",
-       "FloorImageName": "BFloorB3"
+       "FloorImageName": "FloorB3"
      },
      {
         "RoomName": "B401/B402",
@@ -260,67 +260,67 @@
      },
       {
          "RoomName": "FloorC3",
-      "RoomImageName": "FloorC3",
+      "RoomImageName": "ViewFloorC3",
       "DisplayName": "Building C Floor 3",
       "FloorImageName": "FloorC3"
      },
      {
         "RoomName": "FloorC2",
-      "RoomImageName": "FloorC2",
+      "RoomImageName": "ViewFloorC2",
       "DisplayName": "Building C Floor 2",
       "FloorImageName": "FloorC2"
      },
      {
         "RoomName": "FloorC1",
-      "RoomImageName": "FloorC1",
+      "RoomImageName": "ViewFloorC1",
       "DisplayName": "Building C Floor 1",
       "FloorImageName": "FloorC1"
      },
      {
         "RoomName": "FloorB5",
-      "RoomImageName": "FloorB5",
+      "RoomImageName": "ViewFloorB5",
       "DisplayName": "Building B Floor 5",
       "FloorImageName": "FloorB5"
      },
      {
-        "RoomName": "FloorB4",
-      "RoomImageName": "FloorB4",
+      "RoomName": "FloorB4",
+      "RoomImageName": "ViewFloorB4",
       "DisplayName": "Building B Floor 4",
       "FloorImageName": "FloorB4"
      },
      {
         "RoomName": "FloorB3",
-      "RoomImageName": "FloorB3",
+      "RoomImageName": "ViewFloorB3",
       "DisplayName": "Building B Floor 3",
       "FloorImageName": "FloorB3"
      },
      {
         "RoomName": "FloorB2",
-      "RoomImageName": "FloorB2",
+      "RoomImageName": "ViewFloorB2",
       "DisplayName": "Building B Floor 2",
       "FloorImageName": "FloorB2"
      },
      {
       "RoomName": "FloorB1",
-      "RoomImageName": "FloorB1",
+      "RoomImageName": "ViewFloorB1",
       "DisplayName": "Building B Floor 1",
       "FloorImageName": "FloorB1"
      },
      {
       "RoomName": "FloorA3",
-      "RoomImageName": "FloorA3",
+      "RoomImageName": "ViewFloorA3",
       "DisplayName": "Building A Floor 3",
       "FloorImageName": "FloorA3"
      },
      {
       "RoomName": "FloorA2",
-      "RoomImageName": "FloorA2",
+      "RoomImageName": "ViewFloorA2",
       "DisplayName": "Building A Floor 2",
       "FloorImageName": "FloorA2"
      },
      {
        "RoomName": "FloorA1",
-      "RoomImageName": "FloorA1",
+      "RoomImageName": "ViewFloorA1",
       "DisplayName": "Building A Floor 1",
       "FloorImageName": "FloorA1"
      },
